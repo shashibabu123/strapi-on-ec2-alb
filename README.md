@@ -24,7 +24,7 @@ strapi-on-ec2-alb/
 └── README.md
 
 
-## 🔧 Prerequisites
+ 🔧 Prerequisites
 - AWS account with admin access
 - Terraform installed
 - Docker installed
@@ -32,12 +32,12 @@ strapi-on-ec2-alb/
 
 ---
 
-## 🚀 Step-by-Step Guide
+ 🚀 Step-by-Step Guide
 
 ### 1. **Initialize Terraform Project**
 Make sure you're inside the `terraform` directory:
 
-```bash
+
 cd terraform
 terraform init
 ```
